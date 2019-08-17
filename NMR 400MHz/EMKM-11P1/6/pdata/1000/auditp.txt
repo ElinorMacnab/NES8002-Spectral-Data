@@ -1,0 +1,31 @@
+##TITLE= Audit trail, TOPSPIN		Version 3.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= NMR Superuser
+$$ C:/Data/MSc/Macnab/EMKM-11P1/6/pdata/1000/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2019-08-05 13:51:38.877 +0100>,<NMR Superuser>,<new_nmr>,<mvrow>,<TOPSPIN 3.2>,
+      <rsr 105 from
+       1 6 "EMKM-11P1" "C:/Data/MSc/Macnab"
+       data hash MD5: 1K
+       4D C3 CA BE E9 29 CD 67 83 6D F7 4B 44 70 7D BF>)
+(   2,<2019-08-05 13:51:39.064 +0100>,<NMR Superuser>,<new_nmr>,<proc1d>,<TOPSPIN 3.2>,
+      <add DC = 1 DATMOD = 1 of
+       1000 6 "EMKM-11P1" "C:/Data/MSc/Macnab"
+       1001 6 "EMKM-11P1" "C:/Data/MSc/Macnab"
+       data hash MD5: 1K
+       88 F5 DF 83 1D 5F 06 A8 C0 B5 EB C2 F8 42 1E 92>)
+(   3,<2019-08-05 13:51:39.298 +0100>,<NMR Superuser>,<new_nmr>,<proc1d>,<TOPSPIN 3.2>,
+      <add DC = 1 DATMOD = 1 of
+       1000 6 "EMKM-11P1" "C:/Data/MSc/Macnab"
+       1001 6 "EMKM-11P1" "C:/Data/MSc/Macnab"
+       data hash MD5: 1K
+       78 2E A1 57 91 3A 81 A8 E2 00 B2 F3 0C 5F FA 68>)
+(   4,<2019-08-05 13:51:39.376 +0100>,<NMR Superuser>,<new_nmr>,<proc1d>,<TOPSPIN 3.2>,
+      <apk0 
+       data hash MD5: 1K
+       13 09 B4 52 31 66 D8 25 D9 4A 37 CA 8E 75 32 A7>)
+##END=
+
+$$ hash MD5
+$$ 7C 1F 2F D1 5E 60 75 1C 0A FE E3 E8 26 78 FD 6F

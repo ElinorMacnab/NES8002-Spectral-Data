@@ -1,0 +1,36 @@
+##TITLE= Audit trail, TOPSPIN		Version 3.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:/Data/MSc/Macnab/EMKM-71R2/4/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2019-08-01 10:41:06.550 +0100>,<nmrsu>,<CZC1316Q6G>,<go>,<TOPSPIN 3.2>,
+      <created by zg
+	started at 2019-08-01 10:38:34.373 +0100,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       EB 98 D5 B0 3B FB C3 CF 41 9C C3 40 C0 F3 17 5E
+       data hash MD5: 128K
+       30 05 C4 85 AC AE 1A 33 FD 39 55 88 4B 4E E8 98>)
+(   2,<2019-08-01 10:41:07.222 +0100>,<nmrsu>,<CZC1316Q6G>,<audit>,<TOPSPIN 3.2>,
+      <user comment:
+       ICON-NMR User ID: Macnab
+       data hash MD5: 128K
+       30 05 C4 85 AC AE 1A 33 FD 39 55 88 4B 4E E8 98>)
+(   3,<2019-08-01 10:41:07.869 +0100>,<nmrsu>,<CZC1316Q6G>,<proc1d>,<TOPSPIN 3.2>,
+      <Start of raw data processing
+       ef LB = 0.1 FT_mod = 6 PKNL = 1 SI = 128K 
+       data hash MD5: 128K
+       DB 3C 80 24 05 FB EE 74 18 A1 E9 F3 34 52 95 8E>)
+(   4,<2019-08-01 10:41:11.687 +0100>,<nmrsu>,<CZC1316Q6G>,<proc1d>,<TOPSPIN 3.2>,
+      <apk0 
+       data hash MD5: 128K
+       7B 5E 0E F2 48 6A DD 0E CA A7 12 03 C2 00 97 FC>)
+(   5,<2019-08-01 10:41:11.868 +0100>,<nmrsu>,<CZC1316Q6G>,<proc1d>,<TOPSPIN 3.2>,
+      <abs ABSG = 2 
+       data hash MD5: 128K
+       62 56 B0 F5 47 60 DC 05 D2 99 EF D9 67 38 AB 63>)
+##END=
+
+$$ hash MD5
+$$ B9 20 B2 F1 28 15 66 92 90 52 23 A9 49 C4 83 C6

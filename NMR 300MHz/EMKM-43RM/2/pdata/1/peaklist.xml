@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmrsu" date="2019-07-03T13:22:15.524+01:00" expNo="2" name="EMKM-43RM" owner="" procNo="1" source="C:/Data/MSc/Macnab">
+      <PeakPickDetails>F1=16.999670ppm, F2=-2.999667ppm, MI=0.10cm, MAXI=10000.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="7.283861" intensity="1.014230e+001" type="0"/>
+    <Peak1D F1="7.280209" intensity="4.201919e+000" type="0"/>
+    <Peak1D F1="3.413774" intensity="1.335740e+001" type="0"/>
+    <Peak1D F1="3.409568" intensity="1.500000e+001" type="0"/>
+    <Peak1D F1="3.402777" intensity="8.646741e+000" type="0"/>
+    <Peak1D F1="3.350890" intensity="1.494012e-001" type="0"/>
+  </PeakList1D>
+</PeakList>

@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TOPSPIN		Version 3.2
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= NMR Superuser
+$$ 2019-08-05 12:11:35.228 +0100  NMR Superuser@new_nmr
+$$ C:/Data/MSc/Macnab/EMKM-04P1/5/pdata/1/outd
+$$ process C:\Bruker\TopSpin3.2\prog\mod\xwish3.exe
+##$CURPLOT= <HP LaserJet P3005 PCL6>
+##$CURPRIN= <$HP LaserJet P3005 PCL6>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/2D_hom_ncl.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

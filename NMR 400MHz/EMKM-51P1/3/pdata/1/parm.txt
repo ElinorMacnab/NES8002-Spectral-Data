@@ -1,0 +1,40 @@
+
+Current Data Parameters
+NAME          EMKM-51P1              
+EXPNO                 3              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20190806              
+Time              12.20              
+INSTRUM           spect              
+PROBHD   5 mm PABBO BB/              
+PULPROG            zg30              
+TD                65536              
+SOLVENT           CDCl3              
+NS                   16              
+DS                    2              
+SWH            7978.724 Hz           
+FIDRES         0.121746 Hz           
+AQ            4.1069226 sec          
+RG                  256              
+DW               62.667 usec         
+DE                 6.50 usec         
+TE                298.1 K            
+D1           1.00000000 sec          
+TD0                   1              
+
+======== CHANNEL f1 ========
+SFO1        399.7824688 MHz          
+NUC1                 1H              
+P1                15.00 usec         
+PLW1        13.00000000 W            
+
+F2 - Processing parameters
+SI                65536              
+SF          399.7800000 MHz          
+WDW                  EM              
+SSB      0              
+LB                 0.30 Hz           
+GB       0              
+PC                 1.00              

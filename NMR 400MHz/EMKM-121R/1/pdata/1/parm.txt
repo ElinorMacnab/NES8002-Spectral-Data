@@ -1,0 +1,40 @@
+
+Current Data Parameters
+NAME          EMKM-121R              
+EXPNO                 1              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20190809              
+Time               9.38              
+INSTRUM           spect              
+PROBHD   5 mm PABBO BB/              
+PULPROG        zg60_ncl              
+TD                65536              
+SOLVENT           CDCl3              
+NS                    8              
+DS                    0              
+SWH            7995.736 Hz           
+FIDRES         0.122005 Hz           
+AQ            4.0981846 sec          
+RG                  128              
+DW               62.533 usec         
+DE                 8.87 usec         
+TE                298.1 K            
+D1           0.10000000 sec          
+TD0                   1              
+
+======== CHANNEL f1 ========
+SFO1        399.7827985 MHz          
+NUC1                 1H              
+P1                15.00 usec         
+PLW1        13.00000000 W            
+
+F2 - Processing parameters
+SI               131072              
+SF          399.7800000 MHz          
+WDW                  EM              
+SSB      0              
+LB                 0.30 Hz           
+GB       0              
+PC                 1.00              

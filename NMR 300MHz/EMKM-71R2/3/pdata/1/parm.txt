@@ -1,0 +1,50 @@
+
+Current Data Parameters
+NAME          EMKM-71R2              
+EXPNO                 3              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20190801              
+Time              10.31              
+INSTRUM        AVIII300              
+PROBHD   5 mm PABBO BB-              
+PULPROG      zgpg60_ncl              
+TD                65536              
+SOLVENT           CDCl3              
+NS                  128              
+DS                    0              
+SWH           18750.000 Hz           
+FIDRES         0.286102 Hz           
+AQ            1.7476267 sec          
+RG               775.32              
+DW               26.667 usec         
+DE                 6.76 usec         
+TE                298.0 K            
+D1           1.00000000 sec          
+D11          0.03000000 sec          
+TD0                   1              
+
+======== CHANNEL f1 ========
+SFO1         75.4760490 MHz          
+NUC1                13C              
+P1                 8.50 usec         
+PLW1        39.70000076 W            
+
+======== CHANNEL f2 ========
+SFO2        300.1315007 MHz          
+NUC2                 1H              
+CPDPRG[2        waltz64              
+PCPD2             88.00 usec         
+PLW2         7.63000011 W            
+PLW12        0.15642001 W            
+PLW13        0.12113000 W            
+
+F2 - Processing parameters
+SI               131072              
+SF           75.4677485 MHz          
+WDW                  EM              
+SSB      0              
+LB                 2.00 Hz           
+GB       0              
+PC                 1.40              

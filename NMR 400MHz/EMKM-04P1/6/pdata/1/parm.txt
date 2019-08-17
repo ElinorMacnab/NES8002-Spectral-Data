@@ -1,0 +1,91 @@
+
+Current Data Parameters
+NAME          EMKM-04P1              
+EXPNO                 6              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20190805              
+Time              12.33              
+INSTRUM           spect              
+PROBHD   5 mm PABBO BB/              
+PULPROG  hsqcedetgpsp.3              
+TD                 1024              
+SOLVENT           CDCl3              
+NS                    2              
+DS                   16              
+SWH            4807.692 Hz           
+FIDRES         4.695012 Hz           
+AQ            0.1064960 sec          
+RG                 2050              
+DW              104.000 usec         
+DE                 6.50 usec         
+TE                298.1 K            
+CNST2       145.0000000              
+D0           0.00000300 sec          
+D1           0.80000001 sec          
+D4           0.00172414 sec          
+D11          0.03000000 sec          
+D16          0.00020000 sec          
+D21          0.00360000 sec          
+IN0          0.00003010 sec          
+
+======== CHANNEL f1 ========
+SFO1        399.7818801 MHz          
+NUC1                 1H              
+P1                15.00 usec         
+P2                30.00 usec         
+P28             1000.00 usec         
+PLW1        13.00000000 W            
+
+======== CHANNEL f2 ========
+SFO2        100.5322986 MHz          
+NUC2                13C              
+CPDPRG[2          garp4              
+P3                 8.20 usec         
+P14              500.00 usec         
+P31             2119.00 usec         
+PCPD2             80.00 usec         
+PLW0     0 W            
+PLW2        68.69999695 W            
+PLW12        0.72178000 W            
+SPNAM[3] Crp60,0.5,20.1              
+SPOAL3            0.500              
+SPOFFS3  0 Hz           
+SPW3         7.05789995 W            
+SPNAM[18  Crp60_xfilt.2              
+SPOAL18           0.500              
+SPOFFS18 0 Hz           
+SPW18        1.35969996 W            
+
+====== GRADIENT CHANNEL =====
+GPNAM[1]     SMSQ10.100              
+GPNAM[2]     SMSQ10.100              
+GPZ1              80.00 %            
+GPZ2              20.10 %            
+P16             1000.00 usec         
+
+F1 - Acquisition parameters
+TD                  256              
+SFO1           100.5323 MHz          
+FIDRES        64.887871 Hz           
+SW              165.233 ppm          
+FnMODE    Echo-Antiecho              
+
+F2 - Processing parameters
+SI                 1024              
+SF          399.7800000 MHz          
+WDW               QSINE              
+SSB                   2              
+LB       0 Hz           
+GB       0              
+PC                 1.40              
+
+F1 - Processing parameters
+SI                 1024              
+MC2       echo-antiecho              
+SF          100.5247610 MHz          
+WDW               QSINE              
+SSB                   2              
+LB       0 Hz           
+GB       0              

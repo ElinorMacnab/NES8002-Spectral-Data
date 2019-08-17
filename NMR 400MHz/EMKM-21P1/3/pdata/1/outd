@@ -1,0 +1,16 @@
+##TITLE= Parameter file, TOPSPIN		Version 3.2
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= NMR Superuser
+$$ 2019-08-06 10:26:35.060 +0100  NMR Superuser@new_nmr
+$$ C:/Data/MSc/Macnab/EMKM-21P1/3/pdata/1/outd
+$$ process C:\Bruker\TopSpin3.2\prog\mod\xwish3.exe
+##$CURPLOT= <Send To OneNote 2013>
+##$CURPRIN= <$Send To OneNote 2013>
+##$DFORMAT= <normdp>
+##$LAYOUT= <+/1D_H.xwp>
+##$LFORMAT= <normlp>
+##$PFORMAT= <normpl>
+##END=

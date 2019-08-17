@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="NMR Superuser" date="2019-07-03T09:56:54.165+01:00" expNo="2" name="EMKM-41C1" owner="" procNo="1" source="C:/Data/MSc/Macnab">
+      <PeakPickDetails>F1=17.000170ppm, F2=-3.000170ppm, MI=0.10cm, MAXI=10000.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="9.923911" intensity="2.064676e-001" type="0"/>
+    <Peak1D F1="9.895116" intensity="1.500000e+001" type="0"/>
+    <Peak1D F1="9.871247" intensity="1.204448e-001" type="0"/>
+    <Peak1D F1="7.857559" intensity="1.142822e+001" type="0"/>
+    <Peak1D F1="7.836224" intensity="1.164619e+001" type="0"/>
+    <Peak1D F1="7.285587" intensity="8.151601e+000" type="0"/>
+    <Peak1D F1="7.008828" intensity="1.071083e+001" type="0"/>
+    <Peak1D F1="6.987450" intensity="9.877305e+000" type="0"/>
+    <Peak1D F1="6.072836" intensity="1.278297e+000" type="0"/>
+    <Peak1D F1="2.223720" intensity="6.997151e-001" type="0"/>
+    <Peak1D F1="1.723342" intensity="6.108185e-001" type="0"/>
+  </PeakList1D>
+</PeakList>

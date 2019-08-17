@@ -1,0 +1,69 @@
+
+Current Data Parameters
+NAME          EMKM-91P1              
+EXPNO                 7              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20190809              
+Time              10.03              
+INSTRUM        AVIII300              
+PROBHD   5 mm PABBO BB-              
+PULPROG      cosygpppqf              
+TD                 2048              
+SOLVENT            DMSO              
+NS                    1              
+DS                    8              
+SWH            3073.771 Hz           
+FIDRES         1.500865 Hz           
+AQ            0.3331413 sec          
+RG                63.15              
+DW              162.667 usec         
+DE                 6.50 usec         
+TE                298.0 K            
+D0           0.00000300 sec          
+D1           1.90538204 sec          
+D11          0.03000000 sec          
+D12          0.00002000 sec          
+D13          0.00000400 sec          
+D16          0.00020000 sec          
+IN0          0.00032540 sec          
+
+======== CHANNEL f1 ========
+SFO1        300.1316552 MHz          
+NUC1                 1H              
+P0                13.25 usec         
+P1                13.25 usec         
+P17             2500.00 usec         
+PLW1         7.62960005 W            
+PLW10        1.98150003 W            
+
+====== GRADIENT CHANNEL =====
+GPNAM[1]     SMSQ10.100              
+GPZ1              10.00 %            
+P16             1000.00 usec         
+
+F1 - Acquisition parameters
+TD                  128              
+SFO1           300.1317 MHz          
+FIDRES        24.008913 Hz           
+SW               10.239 ppm          
+FnMODE               QF              
+
+F2 - Processing parameters
+SI                 1024              
+SF          300.1300000 MHz          
+WDW               QSINE              
+SSB      0              
+LB       0 Hz           
+GB       0              
+PC                 1.40              
+
+F1 - Processing parameters
+SI                 1024              
+MC2                  QF              
+SF          300.1300000 MHz          
+WDW               QSINE              
+SSB      0              
+LB       0 Hz           
+GB       0              

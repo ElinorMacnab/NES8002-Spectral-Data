@@ -1,0 +1,22 @@
+##TITLE= Parameter file, TOPSPIN		Version 3.2
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 4	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= NMR Superuser
+$$ 2019-08-05 13:30:20.985 +0100  NMR Superuser@new_nmr
+$$ C:/Data/MSc/Macnab/EMKM-11P1/5/acqu2
+$$ process C:\Bruker\TopSpin3.2\prog\au\bin\user\au_getlcosy.exe
+##$ACQT0= 0
+##$BF1= 399.78
+##$FnMODE= 1
+##$NUC1= <1H>
+##$NusJSP= 0
+##$NusT2= 1
+##$NusTD= 0
+##$O1= 1832.10870363837
+##$SFO1= 399.781832108704
+##$SW= 8.51719324818319
+##$SW_h= 5341.88034188034
+##$TD= 256
+##END=

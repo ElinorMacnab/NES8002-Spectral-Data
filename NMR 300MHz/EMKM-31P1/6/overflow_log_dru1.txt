@@ -1,0 +1,31 @@
+# This file gives a closer overview about the occurrences of ADC overflows
+# during the last acquisition.
+# It is updated each time an FID is written to disk.
+# 'Scans' denotes the number of scans that have been acquired for the current FID buffer,
+# 'Experiment' the number of the current FID buffer 
+# (which may be >1 in case of multi dimensional acquisition),
+# 'Overflows' the total number of ADC overflows (if existing) that appeared during 'Scans'
+# scans in FID buffer 'Experiment'.
+# In case a multi-dimensional experiment is fully executed in the FID buffer of the DRU
+# (i.e. using 'st' commands) only the sum of all overflows over all experiments is displayed.
+# Note that the number of overflows may exceed the actual number of scans
+# since there may be more than one overflow per scan.
+
+
+# Scans   Experiment   Overflows
+# ------------------------------
+2   11   1
+2   13   1
+2   14   2
+2   21   1
+2   31   1
+2   46   1
+2   63   1
+2   87   1
+2   101   1
+2   104   1
+2   120   1
+2   153   1
+2   159   1
+2   162   1
+2   252   1

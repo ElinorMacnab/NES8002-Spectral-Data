@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TOPSPIN		Version 3.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:/Data/MSc/Macnab/EMKM-91P1/7/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2019-08-09 10:08:33.403 +0100>,<nmrsu>,<CZC1316Q6G>,<go>,<TOPSPIN 3.2>,
+      <created by zg
+	started at 2019-08-09 10:03:19.004 +0100,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       EB 98 D5 B0 3B FB C3 CF 41 9C C3 40 C0 F3 17 5E
+       data hash MD5: 2K * 128
+       E1 5F 85 3B 2F 3C 1F 27 33 68 FC 11 D3 01 6C CB>)
+(   2,<2019-08-09 10:08:34.466 +0100>,<nmrsu>,<CZC1316Q6G>,<audit>,<TOPSPIN 3.2>,
+      <user comment:
+       ICON-NMR User ID: Macnab
+       data hash MD5: 2K * 128
+       E1 5F 85 3B 2F 3C 1F 27 33 68 FC 11 D3 01 6C CB>)
+##END=
+
+$$ hash MD5
+$$ F8 21 8A EA C3 2C 77 FC B0 4C 11 3C 73 7B 2B C6

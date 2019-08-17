@@ -1,0 +1,18 @@
+##TITLE= Parameter file, TOPSPIN		Version 3.2
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 2	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2019-08-08 11:22:37.037 +0100  nmrsu@CZC1316Q6G
+$$ C:/Data/MSc/Macnab/EMKM-51P1/8/pdata/1000/curdat2
+$$ process C:\Bruker\TopSpin3.2.6\prog\au\bin\user\proc_2dinv_apk0.exe
+##$DATPATH2= <C:/Data/MSc/Macnab>
+##$DATPATH3= <C:/Data/MSc/Macnab>
+##$EXPNO2= 8
+##$EXPNO3= 8
+##$NAME2= <EMKM-51P1>
+##$NAME3= <EMKM-51P1>
+##$PROCNO2= 1000
+##$PROCNO3= 1001
+##END=

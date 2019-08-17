@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmrsu" date="2019-07-01T11:34:46.692+01:00" expNo="1" name="EMKM-41C3" owner="" procNo="1" source="C:/Data/MSc/Macnab">
+      <PeakPickDetails>F1=16.999670ppm, F2=-2.999667ppm, MI=0.10cm, MAXI=10000.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="9.656199" intensity="3.212615e-001" type="0"/>
+    <Peak1D F1="7.814893" intensity="2.682508e-001" type="0"/>
+    <Peak1D F1="7.786166" intensity="2.810908e-001" type="0"/>
+    <Peak1D F1="6.974272" intensity="2.558262e-001" type="0"/>
+    <Peak1D F1="6.946094" intensity="2.363906e-001" type="0"/>
+    <Peak1D F1="4.701460" intensity="1.500000e+001" type="0"/>
+    <Peak1D F1="3.578347" intensity="1.655792e-001" type="0"/>
+  </PeakList1D>
+</PeakList>

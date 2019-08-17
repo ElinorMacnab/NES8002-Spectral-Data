@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="NMR Superuser" date="2019-07-25T15:05:59.702+01:00" expNo="1" name="EMKM-1BO" owner="" procNo="1" source="C:/Data/MSc/Macnab">
+      <PeakPickDetails>F1=17.000170ppm, F2=-3.000170ppm, MI=0.10cm, MAXI=10000.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="7.286113" intensity="4.819900e-001" type="0"/>
+    <Peak1D F1="3.509891" intensity="1.012780e-001" type="0"/>
+    <Peak1D F1="3.492452" intensity="1.438886e-001" type="0"/>
+    <Peak1D F1="3.446155" intensity="5.218927e+000" type="0"/>
+    <Peak1D F1="3.428963" intensity="1.009265e+001" type="0"/>
+    <Peak1D F1="3.411771" intensity="5.274355e+000" type="0"/>
+    <Peak1D F1="1.913227" intensity="1.413865e+000" type="0"/>
+    <Peak1D F1="1.895883" intensity="4.023390e+000" type="0"/>
+    <Peak1D F1="1.877980" intensity="5.201098e+000" type="0"/>
+    <Peak1D F1="1.859190" intensity="4.069509e+000" type="0"/>
+    <Peak1D F1="1.841687" intensity="1.497059e+000" type="0"/>
+    <Peak1D F1="1.567392" intensity="5.962878e-001" type="0"/>
+    <Peak1D F1="1.464826" intensity="2.643839e+000" type="0"/>
+    <Peak1D F1="1.447581" intensity="3.532740e+000" type="0"/>
+    <Peak1D F1="1.430027" intensity="2.762179e+000" type="0"/>
+    <Peak1D F1="1.307773" intensity="1.500000e+001" type="0"/>
+    <Peak1D F1="1.231017" intensity="3.080744e-001" type="0"/>
+    <Peak1D F1="1.213233" intensity="1.928561e-001" type="0"/>
+    <Peak1D F1="1.189213" intensity="1.402283e-001" type="0"/>
+    <Peak1D F1="1.171615" intensity="1.448894e-001" type="0"/>
+    <Peak1D F1="1.155875" intensity="1.357542e-001" type="0"/>
+    <Peak1D F1="1.062124" intensity="1.245501e-001" type="0"/>
+    <Peak1D F1="0.924247" intensity="5.186063e+000" type="0"/>
+    <Peak1D F1="0.908295" intensity="1.135900e+001" type="0"/>
+    <Peak1D F1="0.890854" intensity="5.110788e+000" type="0"/>
+    <Peak1D F1="0.750822" intensity="1.080562e-001" type="0"/>
+  </PeakList1D>
+</PeakList>

@@ -1,0 +1,40 @@
+
+Current Data Parameters
+NAME         EMKM-112C1              
+EXPNO                 1              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20190802              
+Time              13.10              
+INSTRUM        AVIII300              
+PROBHD   5 mm PABBO BB-              
+PULPROG        zg60_ncl              
+TD                65536              
+SOLVENT           CDCl3              
+NS                    8              
+DS                    0              
+SWH            6002.401 Hz           
+FIDRES         0.091589 Hz           
+AQ            5.4591489 sec          
+RG               221.69              
+DW               83.300 usec         
+DE                13.05 usec         
+TE                298.0 K            
+D1           0.10000000 sec          
+TD0                   1              
+
+======== CHANNEL f1 ========
+SFO1        300.1321009 MHz          
+NUC1                 1H              
+P1                13.25 usec         
+PLW1         7.62960005 W            
+
+F2 - Processing parameters
+SI               131072              
+SF          300.1300276 MHz          
+WDW                  EM              
+SSB      0              
+LB                 0.20 Hz           
+GB       0              
+PC                 1.00              

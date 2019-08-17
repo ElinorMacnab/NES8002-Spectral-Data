@@ -1,0 +1,50 @@
+
+Current Data Parameters
+NAME          EMKM-45RM              
+EXPNO                 3              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20190730              
+Time              10.09              
+INSTRUM        AVIII300              
+PROBHD   5 mm PABBO BB-              
+PULPROG            zgpg              
+TD                 4096              
+SOLVENT           CDCl3              
+NS                  256              
+DS                    0              
+SWH           19230.770 Hz           
+FIDRES         4.695012 Hz           
+AQ            0.1064960 sec          
+RG                 1290              
+DW               26.000 usec         
+DE                10.37 usec         
+TE                298.0 K            
+D1           0.10000000 sec          
+D11          0.03000000 sec          
+TD0                   1              
+
+======== CHANNEL f1 ========
+SFO1         96.2936310 MHz          
+NUC1                11B              
+P1                11.75 usec         
+PLW1        14.99699974 W            
+
+======== CHANNEL f2 ========
+SFO2        300.1318534 MHz          
+NUC2                 1H              
+CPDPRG[2        waltz64              
+PCPD2             88.00 usec         
+PLW2         7.63000011 W            
+PLW12        0.15642001 W            
+PLW13        0.12113000 W            
+
+F2 - Processing parameters
+SI                32768              
+SF           96.2936310 MHz          
+WDW                  EM              
+SSB      0              
+LB                 3.00 Hz           
+GB       0              
+PC                 1.40              

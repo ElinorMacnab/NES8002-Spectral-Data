@@ -1,0 +1,15 @@
+##TITLE= Audit trail, TOPSPIN		Version 3.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ C:/Data/MSc/Macnab/EMKM-71R2/5/pdata/1001/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2019-08-01 10:50:29.947 +0100>,<nmrsu>,<CZC1316Q6G>,<mvrow>,<TOPSPIN 3.2>,
+      <rsr 200 from
+       1 5 "EMKM-71R2" "C:/Data/MSc/Macnab"
+       data hash MD5: 1K
+       B5 1E 3B 62 BC B0 79 93 CF 81 C6 70 87 77 9D EF>)
+##END=
+
+$$ hash MD5
+$$ C5 DD 15 5F 53 12 97 C5 74 9B 53 73 CA B2 B7 A5

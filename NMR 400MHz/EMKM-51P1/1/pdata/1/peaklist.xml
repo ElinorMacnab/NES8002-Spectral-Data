@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="NMR Superuser" date="2019-07-25T15:01:37.356+01:00" expNo="1" name="EMKM-51P1" owner="" procNo="1" source="C:/Data/MSc/Macnab">
+      <PeakPickDetails>F1=17.000170ppm, F2=-3.000170ppm, MI=0.10cm, MAXI=10000.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="8.140333" intensity="1.027830e-001" type="0"/>
+    <Peak1D F1="8.123212" intensity="1.050949e-001" type="0"/>
+    <Peak1D F1="8.091173" intensity="1.828049e+000" type="0"/>
+    <Peak1D F1="8.070352" intensity="2.916586e+000" type="0"/>
+    <Peak1D F1="8.056584" intensity="2.260050e+000" type="0"/>
+    <Peak1D F1="7.847748" intensity="1.221727e-001" type="0"/>
+    <Peak1D F1="7.824573" intensity="1.965472e+000" type="0"/>
+    <Peak1D F1="7.785639" intensity="2.306918e+000" type="0"/>
+    <Peak1D F1="7.602870" intensity="3.727779e+000" type="0"/>
+    <Peak1D F1="7.582167" intensity="4.224775e+000" type="0"/>
+    <Peak1D F1="7.471638" intensity="1.624153e-001" type="0"/>
+    <Peak1D F1="7.425329" intensity="2.824031e+000" type="0"/>
+    <Peak1D F1="7.386325" intensity="2.265359e+000" type="0"/>
+    <Peak1D F1="7.287446" intensity="1.307872e+001" type="0"/>
+    <Peak1D F1="7.251037" intensity="1.470168e-001" type="0"/>
+    <Peak1D F1="7.220691" intensity="1.833011e+000" type="0"/>
+    <Peak1D F1="7.199236" intensity="3.634993e+000" type="0"/>
+    <Peak1D F1="7.177899" intensity="1.862844e+000" type="0"/>
+    <Peak1D F1="7.137763" intensity="1.264725e-001" type="0"/>
+    <Peak1D F1="7.020873" intensity="2.918672e-001" type="0"/>
+    <Peak1D F1="6.999222" intensity="2.477463e-001" type="0"/>
+    <Peak1D F1="6.971740" intensity="1.095969e-001" type="0"/>
+    <Peak1D F1="6.923400" intensity="3.814209e+000" type="0"/>
+    <Peak1D F1="6.902438" intensity="3.842654e+000" type="0"/>
+    <Peak1D F1="5.458165" intensity="1.263806e-001" type="0"/>
+    <Peak1D F1="5.440448" intensity="1.447066e-001" type="0"/>
+    <Peak1D F1="5.326612" intensity="1.872660e+000" type="0"/>
+    <Peak1D F1="5.286371" intensity="1.862163e+000" type="0"/>
+    <Peak1D F1="5.231833" intensity="1.625617e-001" type="0"/>
+    <Peak1D F1="4.179494" intensity="1.410107e-001" type="0"/>
+    <Peak1D F1="4.160097" intensity="3.702963e-001" type="0"/>
+    <Peak1D F1="4.142362" intensity="3.639498e-001" type="0"/>
+    <Peak1D F1="4.124497" intensity="1.529738e-001" type="0"/>
+    <Peak1D F1="3.921592" intensity="8.571458e-001" type="0"/>
+    <Peak1D F1="3.763911" intensity="1.463910e-001" type="0"/>
+    <Peak1D F1="3.747677" intensity="1.851711e-001" type="0"/>
+    <Peak1D F1="3.538990" intensity="4.964131e-001" type="0"/>
+    <Peak1D F1="3.521896" intensity="1.441068e+000" type="0"/>
+    <Peak1D F1="3.504202" intensity="1.506626e+000" type="0"/>
+    <Peak1D F1="3.486206" intensity="5.572144e-001" type="0"/>
+    <Peak1D F1="2.074052" intensity="1.445350e+000" type="0"/>
+    <Peak1D F1="1.591559" intensity="1.500000e+001" type="0"/>
+    <Peak1D F1="1.515351" intensity="1.109693e-001" type="0"/>
+    <Peak1D F1="1.304139" intensity="4.382359e-001" type="0"/>
+    <Peak1D F1="1.287593" intensity="9.278777e-001" type="0"/>
+    <Peak1D F1="1.270737" intensity="6.163090e-001" type="0"/>
+    <Peak1D F1="1.255832" intensity="1.659132e+000" type="0"/>
+    <Peak1D F1="1.238078" intensity="2.972728e+000" type="0"/>
+    <Peak1D F1="1.220568" intensity="1.516085e+000" type="0"/>
+    <Peak1D F1="0.899494" intensity="3.664223e-001" type="0"/>
+    <Peak1D F1="0.881374" intensity="4.120493e-001" type="0"/>
+    <Peak1D F1="0.854702" intensity="1.437529e-001" type="0"/>
+  </PeakList1D>
+</PeakList>

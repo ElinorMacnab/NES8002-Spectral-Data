@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmrsu" date="2019-06-28T15:30:26.751+01:00" expNo="1" name="yl0304" owner="" procNo="1" source="C:/Data/MSc/Macnab">
+      <PeakPickDetails>F1=234.211807ppm, F2=-14.238695ppm, MI=0.00cm, MAXI=10000.00cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="152.637878" intensity="1.874883e+000" type="0"/>
+    <Peak1D F1="128.156158" intensity="5.599687e+000" type="0"/>
+    <Peak1D F1="112.896805" intensity="5.854212e+000" type="0"/>
+    <Peak1D F1="40.831753" intensity="5.656238e+000" type="0"/>
+    <Peak1D F1="40.553467" intensity="1.500000e+001" type="0"/>
+    <Peak1D F1="40.275444" intensity="2.922761e+001" type="0"/>
+    <Peak1D F1="39.997097" intensity="3.365214e+001" type="0"/>
+    <Peak1D F1="39.718544" intensity="2.854363e+001" type="0"/>
+    <Peak1D F1="39.439621" intensity="1.404420e+001" type="0"/>
+    <Peak1D F1="39.160934" intensity="4.429775e+000" type="0"/>
+    <Peak1D F1="12.608052" intensity="2.839683e+000" type="0"/>
+  </PeakList1D>
+</PeakList>

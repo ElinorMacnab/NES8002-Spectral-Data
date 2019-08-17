@@ -1,0 +1,31 @@
+##TITLE= Parameter file, TOPSPIN		Version 3.2
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= NMR Superuser
+$$ 2019-08-06 09:33:18.350 +0100  NMR Superuser@new_nmr
+$$ C:/Bruker/TopSpin3.2/prog/curdir/changer/inmrchanger/Jan08-2019-1207-NMRSuperuser/16/data/nmr/EMKM-21P1/4/pdata/1/curdat2
+$$ process C:\Bruker\TopSpin3.2\prog\mod\xwish3.exe
+##$CUREXP= <>
+##$DATPATH= <>
+##$DATPATH2= <C:/Data/MSc/Macnab>
+##$DATPATH3= <C:/Data/MSc/Macnab>
+##$DETAILS= <>
+##$DU= </u>
+##$DU2= <C:\Data\MSc>
+##$DU3= <>
+##$EXPNO= 1
+##$EXPNO2= 3
+##$EXPNO3= 0
+##$NAME= <>
+##$NAME2= <EMKM-21P1>
+##$NAME3= <>
+##$PROCNO= 1
+##$PROCNO2= 1
+##$PROCNO3= 1
+##$TYPE= <nmr>
+##$USER= <>
+##$USER2= <Macnab>
+##$USER3= <>
+##END=

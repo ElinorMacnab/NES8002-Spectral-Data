@@ -1,0 +1,50 @@
+
+Current Data Parameters
+NAME           EMKM-81P              
+EXPNO                 1              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20190724              
+Time              13.50              
+INSTRUM           spect              
+PROBHD   5 mm PABBO BB/              
+PULPROG      zgpg60_ncl              
+TD                65536              
+SOLVENT           CDCl3              
+NS                  128              
+DS                    0              
+SWH           25000.000 Hz           
+FIDRES         0.381470 Hz           
+AQ            1.3107200 sec          
+RG                 2050              
+DW               20.000 usec         
+DE                 9.50 usec         
+TE                298.9 K            
+D1           1.00000000 sec          
+D11          0.03000000 sec          
+TD0                   1              
+
+======== CHANNEL f1 ========
+SFO1        100.5358173 MHz          
+NUC1                13C              
+P1                 8.20 usec         
+PLW1        68.69999695 W            
+
+======== CHANNEL f2 ========
+SFO2        399.7819989 MHz          
+NUC2                 1H              
+CPDPRG[2        waltz64              
+PCPD2             90.00 usec         
+PLW2        13.00000000 W            
+PLW12        0.36111000 W            
+PLW13        0.18164000 W            
+
+F2 - Processing parameters
+SI               131072              
+SF          100.5247610 MHz          
+WDW                  EM              
+SSB      0              
+LB                 2.00 Hz           
+GB       0              
+PC                 1.40              
